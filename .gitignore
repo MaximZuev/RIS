@@ -47,8 +47,3 @@ Thumbs.db
 *.flv
 *.mov
 *.wmv
-
-
-.gradle
-task1/build/
-task2/build/
